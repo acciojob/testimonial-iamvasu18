@@ -4,6 +4,8 @@ body{
 }
 article{
 	background-color:white;
+	padding-top:2px;
+	padding-left:10px;
 }
 sub{
 	text-align:right;
